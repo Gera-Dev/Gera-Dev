@@ -6,7 +6,7 @@
 <h3 align="left">🙋‍♂️ Social stuff:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/gerablt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gerablt" height="30" width="40" /></a>
-<p> 👨‍💻 My website: <a href="https://gera.dev" target="blank">gera.dev</a></p>
+<p> 👨‍💻 My website: <a href="https://geradev.hu" target="blank">geradev.hu</a></p>
 </p>
 
 <h3 align="left">💻 Tech Stack:</h3>
